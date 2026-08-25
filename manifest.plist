@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>https://www.dropbox.com/scl/fi/j3q8xhhhbm1lpgvmx1woa/Rutube-46.6.6_ios14.ipa?rlkey=5dul0eoqgy0x7nlb5g88q46gg&amp;st=4yi7q44x&amp;dl=1</string>
+                    <string>https://www.dropbox.com/scl/fi/bclt1w50jtsr7f914qbch/Rutube-46.5.ipa?rlkey=7lqcricqarrytw0j2bhgxsy7g&amp;st=xa6vmj0s&amp;dl=1</string>
                 </dict>
             </array>
             <key>metadata</key>
@@ -19,7 +19,7 @@
                 <key>bundle-identifier</key>
                 <string>ru.rutube.app</string>
                 <key>bundle-version</key>
-                <string>46.6.6</string>
+                <string>46.5</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
